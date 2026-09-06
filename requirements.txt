@@ -1,0 +1,8 @@
+torch>=1.0.0
+numpy
+tensorboardX
+gymnasium
+pygame
+Pillow
+opencv-python
+git+https://github.com/ntasfi/PyGame-Learning-Environment.git
